@@ -26,7 +26,7 @@ class HomePage extends StatelessWidget {
     return const Padding(
       padding: EdgeInsets.only(top: 8),
       child: Text(
-        "Sazzzad",
+        "Sazzad",
         style: TextStyle(
           color: Colors.white,
           fontSize: 65,

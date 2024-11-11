@@ -11,9 +11,9 @@ class MyTwinParadoxApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Sazzzad",
+      title: "Twin paradox",
       theme: ThemeData(
-        scaffoldBackgroundColor:Colors.green,
+        scaffoldBackgroundColor: Colors.green,
       ),
       home: const HomePage(),
     );
