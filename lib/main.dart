@@ -15,7 +15,7 @@ class MyTwinParadoxApp extends StatelessWidget {
       theme: ThemeData(
         scaffoldBackgroundColor: Colors.green,
       ),
-      home: const HomePage(),
+      home: HomePage(),
     );
   }
 }
